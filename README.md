@@ -1,4 +1,2 @@
-# tic-tac-trig-tripple
-Tic-Tac-Toe, but triple the size with three players!
-Features a countdown clock where you must solve a math problem correctly within the specified time to win!
-
+# tic-tac-trig-triple
+Tic Tac Trig Triple is a game of tic-tac-toe, where the board is triple the size, with 3 players, and math built-in! High-stakes: make any mistake, and your turn is skipped.
