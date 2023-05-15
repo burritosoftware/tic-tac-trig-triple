@@ -1,0 +1,5 @@
+python-dotenv
+hikari
+hikari-lightbulb
+hikari-miru
+uvloop>=0.16; sys_platform != "win32"
