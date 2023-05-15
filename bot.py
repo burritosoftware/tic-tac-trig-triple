@@ -18,7 +18,7 @@ if os.name != "nt":
 # initializing everything
 load_dotenv()
 logger = logging.getLogger('tttt.bot')
-bot = lightbulb.BotApp(token=os.getenv('TOKEN'), prefix=os.getenv('PREFIX'), banner=None, default_enabled_guilds=(1104130814255566899), intents=hikari.Intents.ALL_UNPRIVILEGED)
+bot = lightbulb.BotApp(token=os.getenv('TOKEN'), prefix=os.getenv('PREFIX'), banner=None, default_enabled_guilds=(1106276013522038876), intents=hikari.Intents.ALL_UNPRIVILEGED)
 miru.install(bot)
 
 # creating objects/connections
