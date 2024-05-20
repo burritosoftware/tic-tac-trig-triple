@@ -1,5 +1,5 @@
 python-dotenv
 hikari
 hikari-lightbulb
-hikari-miru
+hikari-miru==3.4.0
 uvloop>=0.16; sys_platform != "win32"
